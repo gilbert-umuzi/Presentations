@@ -11,4 +11,4 @@ This is a portfolio repo of presentation demonstrating work I have lead at Umuzi
 As Yoma's digital skills partners, Umuzi and the African Coding Network have partnered with UNICEF country offices across Africa to develop scaleable learning to earning journeys to support young people to gain skills and become economically active. This includes delivering programmes in partnership with Grow with Google, Meta, and SAP.
 
 ## 2. Ke Ya Rona
-I founded a vehicle financing business for Uber drives in Johannesburg in 2014. The model was based on rent-to-buy, filling a gap in the market for drivers who could not afford to buy their own vehicles, and didn't qualify for bank loans. I decided to close the business after a year as the volatility of driver income did not allow for smooth repayments.
+I founded a vehicle financing business for Uber drives in Johannesburg in 2014. The model was based on rent-to-buy, filling a gap in the market for drivers who could not afford to buy their own vehicles, and didn't qualify for bank loans. I decided to close the business after a year as the volatility of driver income did not allow for consistent repayments.
